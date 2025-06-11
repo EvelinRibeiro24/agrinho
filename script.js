@@ -6,7 +6,7 @@ const plantsData = [
         description: "Esta planta é uma das mais raras do Brasil, encontrada apenas em certas regiões da Mata Atlântica.",
         status: "Em Perigo",
         population: 50,
-        img: "plant1.jpg"
+        img: "cafe.jpg"
     },
     {
         id: "plant2",
