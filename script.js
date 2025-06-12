@@ -2,11 +2,11 @@
 const plantsData = [
     {
         id: "plant1",
-        name: "Planta 1 - Exemplo",
+        name: "pau brasil",
         description: "Esta planta é uma das mais raras do Brasil, encontrada apenas em certas regiões da Mata Atlântica.",
         status: "Em Perigo",
         population: 50,
-        img: "pau brail.jpg"
+        img: "paubrail.jpg"
     },
     {
         id: "plant2",
